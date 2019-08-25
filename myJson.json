@@ -1,0 +1,169 @@
+[
+  {
+    "fname": "Mahendra",
+    "lname": "Bhanage",
+    "tel": "9359200371",
+    "address": "wadgaon sheri",
+    "city": "pune",
+    "state": "Maharashtra",
+    "college": "MMIT"
+  },
+  {
+    "fname": "Rushikesh",
+    "lname": "Deshmukh",
+    "tel": "9689896827",
+    "address": "wadgaon sheri",
+    "city": "pune",
+    "state": "maahrashtra",
+    "college": "MMIT"
+  },
+  {
+    "fname": "Aniket",
+    "lname": "Jadhav",
+    "tel": "9860797374",
+    "address": "wadgaon sheri",
+    "city": "pune",
+    "state": "Maharshtra",
+    "college": "MMIT"
+  },
+  {
+    "fname": "Gaurav",
+    "lname": "Dhondge",
+    "tel": "9834326996",
+    "address": "wadgaon sheri",
+    "city": "pune",
+    "state": "Maharashtra",
+    "college": "MMIT"
+  },
+  {
+    "fname": "Vishwajeet",
+    "lname": "Andhalkar",
+    "tel": "7020055162",
+    "address": "Vadgoan BK",
+    "city": "pune",
+    "state": "SKNS",
+    "college": "NBNS"
+  },
+  {
+    "fname": "Pratik",
+    "lname": "Shirude",
+    "tel": "8766906539",
+    "address": "Vadhgaon BK",
+    "city": "pune",
+    "state": "Maharashtra",
+    "college": "SKNS"
+  },
+  {
+    "fname": "Siddhesh",
+    "lname": "Dodake",
+    "tel": "9373580045",
+    "address": "Hadapsar",
+    "city": "pune",
+    "state": "Maharashtra",
+    "college": "PDEA"
+  },
+  {
+    "fname": "Vitthal",
+    "lname": "Bharsakle",
+    "tel": "8830884640",
+    "address": "Vishrantwadi",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "college": "MMIT"
+  },
+  {
+    "fname": "Shubham",
+    "lname": "Dawkhar",
+    "tel": "8668736016",
+    "address": "Vadgaon BK",
+    "city": "pune",
+    "state": "Maharashtra",
+    "college": "NBNS"
+  },
+  {
+    "fname": "Darshan",
+    "lname": "Shinde",
+    "tel": "9096717647",
+    "address": "Akurdi",
+    "city": "Pune",
+    "state": "DYP",
+    "college": "MMIT"
+  },
+  {
+    "fname": "Abhijeet",
+    "lname": "Shinde",
+    "tel": "9970231243",
+    "address": "Warje",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "college": "AIT"
+  },
+  {
+    "fname": "Ashish",
+    "lname": "Kumar",
+    "tel": "9518528290",
+    "address": "Akudri",
+    "city": "pune",
+    "state": "Maharashtra",
+    "college": "PDYP"
+  },
+
+  {
+    "fname": "Amit",
+    "lname": "Toge",
+    "tel": "9503184256",
+    "address": "Tathwade",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "college": "JSPM"
+  },
+
+  {
+    "fname": "Ishwar",
+    "lname": "Lonkar",
+    "tel": "9511699510",
+    "address": "Vadgaon BK",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "college": "SKNS"
+  },
+
+  {
+    "fname": "Ganesh",
+    "lname": "Handge",
+    "tel": "9168019565",
+    "address": "Dhayri",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "college": "MCOE"
+  },
+
+  {
+    "fname": "Sachin",
+    "lname": "Shendge",
+    "tel": "8806748286",
+    "address": "Vadgaon BK",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "college": "SCOE"
+  },
+  {
+    "fname": "Akshay",
+    "lname": "Chandhare",
+    "tel": "8668753684",
+    "address": "wadgaon sheri",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "college": "MMIT"
+  },
+
+  {
+    "fname": "Krushna",
+    "lname": "Yadav",
+    "tel": "0000000000",
+    "address": "Dwaraka",
+    "city": "Universe",
+    "state": "Utar Pradesh",
+    "college": "Universe"
+  }
+]
